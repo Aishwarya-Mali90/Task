@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="bottom_menu_order">Order</string>
+    <string name="bottom_menu_donate">Donate</string>
+    <string name="bottom_menu_goOut">Go Out</string>
+    <string name="bottom_menu_pro">Pro</string>
+    <string name="bottom_menu_account">Account</string>
+    <string name="address">99,Brooklyn Street</string>
+    <string name="search">Restaurant name, cuisine or a dish name</string>
+
+</resources>
